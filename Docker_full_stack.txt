@@ -1,0 +1,16 @@
+Docker (full stack)
+
+From the repo root:
+bash
+
+docker-compose up -d
+
+This will start:
+
+    FastAPI backend
+
+    React frontend
+
+    Elasticsearch + Kibana
+
+    Nginx reverse proxy
