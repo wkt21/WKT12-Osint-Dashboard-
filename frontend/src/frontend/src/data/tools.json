@@ -1,0 +1,135 @@
+[
+  {
+    "id": "osint_industries",
+    "name": "OSINT Industries",
+    "url": "https://osint.industries",
+    "stage": "metadata_extraction",
+    "description": "Enterprise-grade phone/email/username intelligence with API support."
+  },
+  {
+    "id": "phoneinfoga",
+    "name": "PhoneInfoga",
+    "url": "https://github.com/sundowndev/phoneinfoga",
+    "stage": "telecom_recon",
+    "description": "Open-source phone number reconnaissance tool."
+  },
+  {
+    "id": "truecaller",
+    "name": "Truecaller",
+    "url": "https://truecaller.com",
+    "stage": "cross_platform",
+    "description": "Caller ID and spam detection service."
+  },
+  {
+    "id": "epieos",
+    "name": "Epieos",
+    "url": "https://epieos.com",
+    "stage": "metadata_extraction",
+    "description": "Email and phone lookup with metadata extraction."
+  },
+  {
+    "id": "spydialer",
+    "name": "SpyDialer",
+    "url": "https://spydialer.com",
+    "stage": "cross_platform",
+    "description": "Reverse phone, people, and address search."
+  },
+  {
+    "id": "800notes",
+    "name": "800Notes",
+    "url": "https://800notes.com",
+    "stage": "cross_platform",
+    "description": "Community reports on spam/scam numbers."
+  },
+  {
+    "id": "numberingplans",
+    "name": "NumberingPlans",
+    "url": "https://numberingplans.com",
+    "stage": "telecom_recon",
+    "description": "Global numbering formats, carrier info, and routing data."
+  },
+  {
+    "id": "whatsmyname",
+    "name": "WhatsMyName",
+    "url": "https://whatsmyname.app",
+    "stage": "cross_platform",
+    "description": "Username enumeration across hundreds of platforms."
+  },
+  {
+    "id": "phonefinder",
+    "name": "Phone Finder",
+    "url": "https://phonefinder.com",
+    "stage": "telecom_recon",
+    "description": "Basic reverse lookup and carrier metadata."
+  },
+  {
+    "id": "payphone_directory",
+    "name": "PayPhone Directory",
+    "url": "https://payphone-directory.org.uk",
+    "stage": "telecom_recon",
+    "description": "UK payphone lookup database."
+  },
+  {
+    "id": "phonevalidator",
+    "name": "Phone Validator",
+    "url": "https://phonevalidator.com",
+    "stage": "telecom_recon",
+    "description": "Line type, carrier, validity, and risk scoring."
+  },
+  {
+    "id": "country_codes",
+    "name": "Country Codes",
+    "url": "https://countrycode.org",
+    "stage": "telecom_recon",
+    "description": "International dialing codes and region data."
+  },
+  {
+    "id": "phonesearch",
+    "name": "Phone Search",
+    "url": "https://phonesearch.org",
+    "stage": "cross_platform",
+    "description": "Reverse lookup and people search."
+  },
+  {
+    "id": "zlookup",
+    "name": "ZLOOKUP",
+    "url": "https://zlookup.com",
+    "stage": "cross_platform",
+    "description": "Free reverse phone lookup."
+  },
+  {
+    "id": "intelx",
+    "name": "IntelX Phone Search",
+    "url": "https://intelx.io",
+    "stage": "deep_osint",
+    "description": "Deep OSINT platform with breach data correlation."
+  },
+  {
+    "id": "freelookupapi",
+    "name": "Free HLR Lookup",
+    "url": "https://freelookupapi.com",
+    "stage": "telecom_recon",
+    "description": "Home Location Register queries for line status."
+  },
+  {
+    "id": "aiphonebook",
+    "name": "AIThePhoneBook",
+    "url": "https://aiphonebook.com",
+    "stage": "metadata_extraction",
+    "description": "AI-driven phone number intelligence."
+  },
+  {
+    "id": "azixplm",
+    "name": "AzixPlm / No-Verify Project",
+    "url": "https://github.com/AzixPlm",
+    "stage": "deep_osint",
+    "description": "Verification-bypass research tools & datasets."
+  },
+  {
+    "id": "phomber",
+    "name": "PHOMBER",
+    "url": "https://phomber.com",
+    "stage": "deep_osint",
+    "description": "OSINT automation platform for phone/email/identity."
+  }
+]
