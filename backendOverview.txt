@@ -1,0 +1,21 @@
+    main.py
+
+        FastAPI app, logging middleware, router registration.
+
+    routers/enrich_epieos.py
+
+        Endpoint: POST /api/enrich/epieos
+
+        Accepts identifier, returns normalized metadata.
+
+    routers/enrich_phoneinfoga.py
+
+        Endpoint: POST /api/enrich/phoneinfoga.
+
+    routers/enrich_intelx.py
+
+        Endpoint: POST /api/enrich/intelx.
+
+    models/case.py, models/enrichment.py
+
+        Pydantic models for request/response and DB mapping.
